@@ -1,0 +1,10 @@
+﻿body {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: hotpink;
+}
+
+h1{
+    color: hotpink;
+}
